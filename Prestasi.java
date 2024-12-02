@@ -1,5 +1,5 @@
 
-public class PengisianKRS {
+public class Prestasi {
     public static void main(String[] args) {
         
     }
